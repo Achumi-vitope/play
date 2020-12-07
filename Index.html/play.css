@@ -1,0 +1,114 @@
+h1{
+    text-shadow: rgb(170, 170, 170) 6px 7px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color : rgba(255, 0, 106, 0.842);
+    font-size: 50px;
+}
+.hisplaylist{
+text-shadow: black 6px 6px 10px;
+}
+s{
+    color: red;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border:solid #9932cc;
+    border-radius: 15%;
+    float: left;
+    box-shadow:purple 10px 10px 20px;
+}
+li{
+    margin-left: 200px;
+    margin-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:rgb(255, 101, 222);
+}
+.vitope-playlist{
+    margin-left: 20px;
+    border:solid 0px black;
+    padding: 2%;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: grey 16px 6px 16px 7px;
+    background-color: rgb(46, 46, 46);
+}
+audio{
+    width: 600px;
+    height: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.audio{
+    background-color:black;
+    border: solid;
+    border-radius: 0px 100px 0px 100px;
+}
+#hi{
+    height: 200px;
+}
+/*japheth*/
+
+.jeff{
+    width: 150px;
+    height: 150px;
+    border:solid black;
+    border-radius: 15%;
+    float: left;
+    box-shadow:grey 6px 6px 16px;
+}
+.japheth-playlist{
+    margin-left: 20px;
+    border:solid 0px black;
+    padding: 2%;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: grey 16px 6px 16px 7px;
+    background-color: navy;
+}
+b{
+    font-family: cursive;
+    font-size: 12px;
+}
+.moon{
+    text-shadow: rgb(43, 14, 14) 6px 6px 10px;
+}
+    
+.jap{
+background-color: grey;
+border-radius: 0px 100px 0px 100px;
+box-shadow: rgba(107, 107, 255, 0.979) 6px 6px 16px;
+}
+/* Ephraim*/
+.eph{
+    width: 150px;
+    height: 150px;
+    border:solid black;
+    border-radius: 15%;
+    float: left;
+    box-shadow:grey 6px 6px 16px;
+}
+.ephraim-playlist{
+    margin-left: 20px;
+    border:solid 0px black;
+    padding: 2%;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: grey 16px 6px 16px 7px;
+    background-color:#ff6ec7;
+}
+b{
+    font-family: cursive;
+    font-size: 12px;
+}
+.e{
+    color: black;
+    text-shadow: rgb(43, 14, 14) 6px 6px 10px;
+}
+
+.epp{
+    background: rgb(172, 82, 97);
+    border: solid 0px;
+    border-radius: 0px 100px 0px 100px;
+    box-shadow: rgb(255, 201, 210) 6px 6px 16px;
+}
